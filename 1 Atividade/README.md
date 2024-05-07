@@ -39,7 +39,7 @@ NAME_U, HEX 0
 NAME_S, HEX 0
 ```
 
-#### O código reserva espaço na memória para armazenar o nome "Mateus". Onde cada variável (NAME_M, NAME_A, NAME_T, NAME_E, NAME_U, NAME_S) onde cada variável é uma posição de memória que será usada para armazenar um caractere do nome. E todas essas posições de memória são inicializadas com o valor hexadecimal 0
+#### O código reserva espaço na memória para armazenar o nome "Mateus". Onde cada variável (NAME_M, NAME_A, NAME_T, NAME_E, NAME_U, NAME_S) é uma posição de memória que será usada para armazenar um caractere do nome. E todas essas posições de memória são inicializadas com o valor hexadecimal 0
 
 ### Resultado
 
